@@ -1,0 +1,8 @@
+.m-cell {
+    background-color: #FFF;
+    position: relative;
+    z-index: 1;
+    margin-bottom: .35rem;
+    height: 3rem;
+    line-height: 3rem;
+}
